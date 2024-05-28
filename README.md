@@ -12,7 +12,7 @@ The primary goal behind this research is to deepen my understanding of Web3 and 
 
 ## Contents
 
-- [enhancing-security-in-defi-web3-paradigm-2023.pdf](/paper/enhancing-security-in-defi-web3-paradigm-2023.pdf/) - The full research paper in PDF format.
+- [enhancing-security-in-defi-web3-paradigm-2023.pdf](/paper/Enhancing%20Security%20in%20DeFi%20-%20A%20Web3.0%20Paradigm%202023.pdf) - The full research paper in PDF format.
 - [Presentation Slides.pptx](/slides/Presentation%20Slides.pptx/) - Slides presenting the main points and findings from the research.
 
 ## How to Use This Repository
